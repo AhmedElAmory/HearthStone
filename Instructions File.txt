@@ -1,0 +1,29 @@
+Hearthstone game by :-
+Ahmed Abdelraheem 46-2859
+Ahmed Belal 46-0642
+
+***Please run the game on 1920 x 1080 Display*** 
+
+Instructions:
+
+To run the Game : Run the Controller Class
+
+Selecting two heroes: At the start of the game player 1 chooses then player 2 chooses 
+
+Current Hero playing a minion: Just click on the minion from your hand 
+
+Current Hero casting Spells : For spells without a specific target just click on it from the
+			      hand , if the spell is a minion or hero target spell .. click
+			      on the spell and then click on your target .
+NB: If you clicked on a target spell and then you don't want to use it .. Just click on the
+    Reset Choices Button.
+
+Current Hero attack with minions: Just click on your minion from your field and then click
+				  on the target minion or opponent Hero..
+NB:If you clicked on a Minion and then you don't want to attack with it .. Just click on the
+    Reset Choices Button..
+
+End Turn : Just click on the End Turn Button
+
+Orientation :The Current Hero hand and Field is always at the lower half of the screen ...
+
